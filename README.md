@@ -1,2 +1,5 @@
 # vui
-A component library for Vue.js.
+A Vue.js 2.0 UI Toolkit for Web.
+
+## LICENSE
+MIT
